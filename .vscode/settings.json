@@ -1,3 +1,17 @@
 {
+<<<<<<< HEAD
     "SAP HANA Database Explorer.ShowXsAdvancedConnections": true
 }
+=======
+  // uncomment entries once all libraries have been installed via 'npm install'
+  "eslint.validate": [
+    // "cds",
+    // "csn",
+    // "csv",
+    // "csv (semicolon)",
+    // "tab",
+    // "tsv"
+  ],
+  "SAP HANA Database Explorer.ShowXsAdvancedConnections": true
+}
+>>>>>>> 79e3d7e (Incident management application)
